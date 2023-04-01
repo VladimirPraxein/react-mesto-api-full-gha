@@ -1,0 +1,7 @@
+.popup__form-container {
+  min-height: 44px;
+  margin:0 0 13px 0;
+} 
+.popup__form-container:last-of-type {
+  margin:0 0 30px 0;
+}

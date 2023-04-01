@@ -1,0 +1,14 @@
+.user-info {
+    display: flex;
+    align-items: center;
+}
+
+@media screen and (max-width:768px) {
+    .user-info {
+        display: none;
+        position: absolute;
+        top: 0;
+        left: 50%;
+        transform: translate(-50%, 0);
+    }
+}

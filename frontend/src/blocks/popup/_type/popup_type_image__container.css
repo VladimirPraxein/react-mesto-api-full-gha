@@ -1,0 +1,8 @@
+.popup_type_image__container{
+  position: relative;
+  background-color: transparent;
+  box-shadow: none;
+  max-width: 100%;
+  padding: 0;
+  border-radius: none;
+}

@@ -1,0 +1,4 @@
+.grid-cards__likes {
+  display: flex;
+  flex-direction: column;
+}

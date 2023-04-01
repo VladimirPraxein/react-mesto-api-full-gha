@@ -1,0 +1,5 @@
+@media screen and (max-width:768px) {
+    .header_active {
+        margin-top: 142px;
+    }
+}

@@ -1,0 +1,6 @@
+.grid-cards__row{
+  display: flex;
+  padding: 22px 20px 24px 21px;
+  justify-content: space-between;
+  align-items: center;
+}

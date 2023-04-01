@@ -1,0 +1,11 @@
+.header__link {
+    font-size: 18px;
+    color: #fff;
+    text-decoration: none;
+}
+
+@media screen and (max-width:580px) {
+    .header__link {
+        font-size: 14px;
+    }
+}

@@ -1,0 +1,9 @@
+.grid-cards{
+  padding: 0 0 66px 0;
+}
+
+@media screen and (max-width:1024px) {
+  .grid-cards{
+    padding: 0 20px 48px 20px;
+  }
+}

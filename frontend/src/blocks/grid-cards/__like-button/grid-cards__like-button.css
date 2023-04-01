@@ -1,0 +1,15 @@
+.grid-cards__like-button{
+  background-image: url(../../../images/like.svg);
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 22px;
+  height: 19px;
+  border: none;
+  padding: 0;
+  background-color: transparent;
+  cursor: pointer;
+  transition: .4s;
+}
+.grid-cards__like-button:hover{
+  opacity: .5;
+}

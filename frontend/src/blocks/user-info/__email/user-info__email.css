@@ -1,0 +1,12 @@
+.user-info__email {
+    font-weight: 500;
+    font-size: 18px;
+    color:#fff;
+    margin: 0 24px 0 0;
+}
+
+@media screen and (max-width: 768px) {
+    .user-info__email {
+        margin: 0 0 18px 0;
+    }
+}
