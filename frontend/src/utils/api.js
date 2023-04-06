@@ -59,7 +59,7 @@ class Api {
       },
       body: JSON.stringify({
         name: name,
-        link: link
+        link: link,
       })
     })
       .then(this.processRequest)
@@ -121,7 +121,7 @@ class Api {
 }
 
 export const api = new Api({
-  baseUrl: 'https://api.mesto.project.student.nomoredomains.work',
+  baseUrl: 'http://localhost:3000',
 });
 
 

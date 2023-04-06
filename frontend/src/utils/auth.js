@@ -1,4 +1,4 @@
-export const BASE_URL = 'https://api.mesto.project.student.nomoredomains.work';
+export const BASE_URL = 'http://localhost:3000';
 
 function processRequest(res) {
     if (res.ok) {
